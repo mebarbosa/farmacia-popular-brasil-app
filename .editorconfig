@@ -1,0 +1,8 @@
+[*.{kt,kts}]
+ktlint_function_naming_ignore_when_annotated_with = Composable
+insert_final_newline = false
+ktlint_standard_no-wildcard-imports = enabled
+
+ktlint_standard_wrapping = disabled
+ktlint_standard_trailing-comma-on-call-site = disabled
+ktlint_standard_trailing-comma-on-declaration-site = disabled
