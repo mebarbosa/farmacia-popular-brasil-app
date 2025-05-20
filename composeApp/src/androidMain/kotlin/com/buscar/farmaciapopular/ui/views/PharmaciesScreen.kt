@@ -1,4 +1,4 @@
-package com.buscar.farmaciapopular
+package com.buscar.farmaciapopular.ui.views
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
@@ -16,14 +16,13 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import com.buscar.farmaciapopular.Greeting
 import farmaciapopular.composeapp.generated.resources.Res
 import farmaciapopular.composeapp.generated.resources.compose_multiplatform
 import org.jetbrains.compose.resources.painterResource
-import org.jetbrains.compose.ui.tooling.preview.Preview
 
 @Composable
-@Preview
-fun App() {
+fun PharmaciesScreen() {
     MaterialTheme {
         var showContent by remember { mutableStateOf(false) }
         Column(

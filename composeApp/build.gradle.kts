@@ -20,6 +20,8 @@ kotlin {
         androidMain.dependencies {
             implementation(compose.preview)
             implementation(libs.androidx.activity.compose)
+            implementation(libs.androidx.navigation.compose)
+            implementation(libs.material.icons.extended)
         }
 
         commonMain.dependencies {
