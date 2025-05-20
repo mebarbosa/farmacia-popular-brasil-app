@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FFD91E2E</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="primary_container">#FFFFDAD6</color>
+    <color name="on_primary_container">#FF410003</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#FF4162A6</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="secondary_container">#FFD8E2FF</color>
+    <color name="on_secondary_container">#FF001A43</color>
+
+    <!-- Tertiary Colors -->
+    <color name="tertiary">#FFF2B90C</color>
+    <color name="on_tertiary">#FF402D00</color>
+    <color name="tertiary_container">#FFFFDF96</color>
+    <color name="on_tertiary_container">#FF261900</color>
+
+    <!-- Error Colors -->
+    <color name="error">#FFBA1A1A</color>
+    <color name="on_error">#FFFFFFFF</color>
+    <color name="error_container">#FFFFDAD6</color>
+    <color name="on_error_container">#FF410002</color>
+
+    <!-- Surface Colors -->
+    <color name="background">#FFFEFBFF</color>
+    <color name="on_background">#FF1B1B1F</color>
+    <color name="surface">#FFFEFBFF</color>
+    <color name="on_surface">#FF1B1B1F</color>
+    <color name="surface_variant">#FFE7E0EC</color>
+    <color name="on_surface_variant">#FF49454E</color>
+
+    <!-- Outline -->
+    <color name="outline">#FF7A757F</color>
+</resources>
