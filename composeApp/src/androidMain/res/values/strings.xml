@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">FarmaciaPopular</string>
     <string name="navigation_pharmacies">Farmácias</string>
-    <string name="navigation_medicines">Remédios</string>
+    <string name="navigation_medicines">Medicamentos</string>
     <string name="navigation_settings">Configurações</string>
-    <string name="navigation_pharmacies_content_description">Encontre as farmácias participantes do farmácia popular</string>
-    <string name="navigation_medicines_content_description">Encontre os remédios participantes do farmácia popular</string>
+    <string name="navigation_pharmacies_content_description">Encontre as farmácias participantes do Programa Farmácia Popular</string>
+    <string name="navigation_medicines_content_description">Encontre os medicamentos disponíveis no Programa Farmácia Popular</string>
     <string name="navigation_settings_content_description">Configurações</string>
 </resources>
