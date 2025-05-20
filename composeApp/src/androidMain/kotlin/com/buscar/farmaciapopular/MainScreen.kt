@@ -28,10 +28,7 @@ fun MainScreen() {
 
     Scaffold(
         bottomBar = {
-            NavigationBar(
-                containerColor = MaterialTheme.colorScheme.surface,
-                contentColor = MaterialTheme.colorScheme.onSurface
-            ) {
+            NavigationBar {
                 screens.forEach { screen ->
                     val selected = currentRoute == screen.route
 
