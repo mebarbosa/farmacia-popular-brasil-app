@@ -40,4 +40,3 @@ class PharmaciesViewModel(
         viewModelScope.coroutineContext.cancel()
     }
 }
-
